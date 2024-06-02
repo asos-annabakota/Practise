@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "aspnetcoreinaction", "aspnetcoreinaction", "{1B68B6B3-E226-46B4-8EA2-42159E0FD466}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalApiRouteGroups", "aspnetcoreinaction\MinimalApiRouteGroups\MinimalApiRouteGroups.csproj", "{24EB07B4-A275-42EA-B519-1A7967534B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24EB07B4-A275-42EA-B519-1A7967534B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EB07B4-A275-42EA-B519-1A7967534B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EB07B4-A275-42EA-B519-1A7967534B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EB07B4-A275-42EA-B519-1A7967534B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{24EB07B4-A275-42EA-B519-1A7967534B6B} = {1B68B6B3-E226-46B4-8EA2-42159E0FD466}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1AF95E-5F53-414F-B908-DA66796F59CC}
+	EndGlobalSection
+EndGlobal
